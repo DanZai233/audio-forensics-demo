@@ -1,0 +1,9 @@
+{
+  "upstream": "https://github.com/media-sec-lab/BAM",
+  "revision": "55f3fb9e3b4dd6281597b86d7712fb23454179f6",
+  "checkpoint_url": "https://drive.google.com/file/d/1eL3Ca27hEruI20lkoqkQEnZlb2GzTyHT/view",
+  "zip_sha256": "5c7379d23028606d3beeb8b1aa5c340395fcc403ce70a2ca559ea322ab2994d1",
+  "checkpoint_sha256": "5f706ff5858cb405aea05e4cfedc45f6233cdbb7fdc7c9e26440da1102afa8b7",
+  "wavlm_source": "https://github.com/s3prl/s3prl/tree/main/s3prl/upstream/wavlm",
+  "license": "BAM overall license not explicit. WavLM MIT. Local experimental research only."
+}
